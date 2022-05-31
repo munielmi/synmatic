@@ -1,7 +1,7 @@
 Synmatic - In this web application you will find many informative movie reviews, you can compare different reviews on current, upcoming, recent, or vintage movies and even get a sneak-peek at the trailers. You can filter the movies by genre. This extension is built in a more user-friendly manner where they can save time by loading all the currently playing movies in a single click.
 ```
-Check out [FRONTEND LIVE DEMO](https://frontend-synamatic.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://backend-synamatic.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-synamatic.herokuapp.com/) 
+Check out [API LIVE DEMO](https://backend-synamatic.herokuapp.com/) 
 ## Tech used
 ```
 * Frontend : React & Redux

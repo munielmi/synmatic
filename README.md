@@ -1,6 +1,4 @@
-# Synamatic
-```
-Movie Review App, with a frontend built in React & Redux and a backend built in Django API.
+Synmatic - In this web application you will find many informative movie reviews, you can compare different reviews on current, upcoming, recent, or vintage movies and even get a sneak-peek at the trailers. You can filter the movies by genre. This extension is built in a more user-friendly manner where they can save time by loading all the currently playing movies in a single click.
 ```
 Check out [FRONTEND LIVE DEMO](https://frontend-synamatic.herokuapp.com/) here!!
 Check out [API LIVE DEMO](https://backend-synamatic.herokuapp.com/) here!!
@@ -12,7 +10,7 @@ Check out [API LIVE DEMO](https://backend-synamatic.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone git@github.com/carlostechis/moviereviewsite.git
+git clone git@https://github.com/munielmi/synmatic
 ```
 2. Backend setting
 ```
